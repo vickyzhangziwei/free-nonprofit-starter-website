@@ -12,19 +12,19 @@ org_full_description: > # Enter your description on the next line. Be sure to in
 
 #OPTIONAL
 #Non US-address support coming soon
-org_general_email_inbox: your-email@somedomain.com
-org_street_address: 1355 Market Street #Please include suite number on the line below
-org_address_suite: Suite 900
-org_city: San Francisco
+org_general_email_inbox: ec.vickyzhang@gmail.com
+org_street_address: Tai Kok Tsui
+org_address_suite: Kowloon
+org_city: Hong Kong
 org_state: CA
 org_zip: > # Enter zip on next line. Be sure to indent by two spaces.
-  94103
+  999077
 org_phone: > # Enter phone on next line. Be sure to indent by two spaces.
   (123) 456-7890
 
 #SOCIAL MEDIA
-org_twitter_username: smartergiving
-org_facebook_username: smartergiving
+org_twitter_username: vicky
+org_facebook_username: vicky
 org_instagram_username:
 
 #TAX STATUS
