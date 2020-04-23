@@ -38,19 +38,13 @@ layout: default
 <section id="donate" class="donate section text-center">
   <div class="container">
     <div class="donate-inner">
-      <h2 class="title text-center">Donate</h2>
+      <h2 class="title text-center">Donate for Covid-19 Response Fund</h2>
       <div class="info">
-        <p><strong>Become a donor today.</strong></p>
+        <p><strong>Become a donor today. Your support means a lot to us.</strong></p>
         {% if site.donorbox_campaign_name %}
           <div class="donorbox text-center">
             <iframe src="https://donorbox.org/embed/{{ site.donorbox_campaign_name }}" height="600px" width="100%" style="max-width:500px; min-width:310px" seamless="seamless" name="donorbox" frameborder="0" scrolling="no"></iframe>
           </div>
-          {% if site.501c3 == true %}
-            <p>Contributions are tax deductible to the extent permitted by law.<br>{{ site.org_name }} is a 501(c)(3) organization.</p>
-          {% elsif site.fiscal_sponsor_name %}
-            <p>{{ site.org_name }} is fiscally sponsored by {{ site.fiscal_sponsor_name }}, a 501 (c)(3) tax exempt non-profit organization.</p>
-          {% endif %}
-        {% else %}
         <div class="donorbox text-center">
         </div>
         <hr>
@@ -60,7 +54,7 @@ layout: default
       </div><!--//info-->
       <div class="cta-container">
         <div class="speech-bubble">
-          <p class="intro">Your support means the world to us :)</p>
+          <p class="intro">Thank you :)</p>
           <div class="icon-holder  text-center"><i class="fa fa-smile-o"></i></div>
         </div><!--//speech-bubble-->
         <div class="btn-container  text-center">
